@@ -4,7 +4,9 @@ This program is designed to be a 20x20 Grid Based autonomous game in which the p
 Programmers:
 
 Micah Geertson
+
 Joshua Womack
+
 Mahyar Babaie
 
 
